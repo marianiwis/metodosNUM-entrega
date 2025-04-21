@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducción}{2}{section.1}%
+\contentsline {section}{\numberline {2}Marco Teórico}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Fuentes}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Tablas}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Ejemplos}{3}{subsubsection.2.2.1}%
+\contentsline {section}{\numberline {3}Desarrollo}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Fórmulas matemáticas}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Imágenes}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Conclusiones}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Citación de bibliografía}{7}{subsection.4.1}%
+\contentsline {section}{Referencias}{7}{section*.8}%
